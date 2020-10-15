@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi I'm Nethmi 👋
 
-<!--
-**nethmi2020/nethmi2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on  Web application for You tube channel...
 - 🌱 I’m currently learning ...Laravel and Django frameworks
 - 👯 I’m looking to collaborate on ...Django and Laravel projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with ...design
+- 💬 Ask me about ... Backend development
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: .... she/her
 - ⚡ Fun fact: coding
 -->
